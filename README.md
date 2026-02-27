@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="../static/favicon.svg" width="80" height="80" alt="logo" />
+<img src="[../static/favicon.svg](https://github.com/user-attachments/assets/8919eace-b8a9-4775-b214-4656a96775df)" width="80" height="80" alt="logo" />
 
 
 # 校园交流论坛
